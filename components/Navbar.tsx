@@ -10,7 +10,7 @@ import {
   ArrowUpRight
 } from "lucide-react"
 
-// Navbar component with scroll effect and mobile menu
+// Checking of working of git
 
 export default function Navbar() {
   const [isScrolled, setIsScrolled] = useState(false)
